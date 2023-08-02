@@ -6,5 +6,6 @@
 
 ## 一、笔记目录
 
-[01.数据操作-数据预处理](./01.data-operate_data-preprocess.ipynb)
-[02.线性代数](./02.linear-algebra.ipynb)
+[01.【数学基础】数据操作-数据预处理](./01.math_data-operate-data-preprocess.ipynb)
+[02.【数学基础】线性代数](./02.math_linear-algebra.ipynb)
+[03.【深度学习】线性回归](./03.dl_Linear-regression.ipynb)
